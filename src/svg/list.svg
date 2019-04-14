@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>list</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons-export" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="list" stroke="#353535" stroke-width="30">
+            <g id="list-copy" transform="translate(14.000000, 71.000000)">
+                <path d="M17,17.85 L459,17.85" id="Line-2"></path>
+                <path d="M17,176.12 L459,176.12" id="Line-2-Copy"></path>
+                <path d="M17,334.39 L459,334.39" id="Line-2-Copy-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

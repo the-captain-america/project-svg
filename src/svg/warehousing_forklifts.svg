@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>warehousing_forklifts</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons-export" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="warehousing_forklifts" stroke="#353535">
+            <g id="forklift" transform="translate(251.664803, 249.000000) scale(-1, 1) translate(-251.664803, -249.000000) translate(24.164803, 74.000000)">
+                <path d="M253.968817,15.1870583 L405.007548,15.2583314 C435.264106,15.2583314 457.071922,39.7380743 453.727484,69.8380145 L453.727484,261.116361 M333.118477,261.116361 L254.56693,261.116361 L333.118477,261.116361 Z M254.56693,16.4274525 L178.775535,239.02704 L254.56693,16.4274525 Z" id="Cap" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polyline id="Path-3" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" points="0.087041877 282.482426 137.018421 282.482426 137.018421 0.0772581896"></polyline>
+                <path d="M201.413768,349.623382 C171.230878,349.623382 146.762812,325.155315 146.762812,294.972426 C146.762812,264.789536 171.230878,240.32147 201.413768,240.32147 C231.596658,240.32147 256.064724,264.789536 256.064724,294.972426 C256.064724,325.155315 231.596658,349.623382 201.413768,349.623382 Z M388.923083,349.623382 C358.740194,349.623382 334.272127,325.155315 334.272127,294.972426 C334.272127,264.789536 358.740194,240.32147 388.923083,240.32147 C419.105973,240.32147 443.574039,264.789536 443.574039,294.972426 C443.574039,325.155315 419.105973,349.623382 388.923083,349.623382 Z" id="Wheels" stroke-width="25"></path>
+            </g>
+        </g>
+    </g>
+</svg>

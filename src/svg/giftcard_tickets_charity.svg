@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>giftcard_tickets_charity</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons-export" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="giftcard_tickets_charity">
+            <g id="gift" transform="translate(26.000000, 45.000000)">
+                <rect id="Lid" stroke="#333333" stroke-width="30" stroke-linejoin="round" x="0" y="124" width="447" height="99" rx="1"></rect>
+                <rect id="Body" stroke="#333333" stroke-width="30" stroke-linejoin="round" x="25" y="224" width="397" height="199" rx="1"></rect>
+                <rect id="Ribbon" fill="#333333" x="199" y="124" width="50" height="298"></rect>
+                <path d="M233,114 L233,49.5 C233,13.8776336 261.877634,-15 297.5,-15 C333.122366,-15 362,13.8776336 362,49.5 C362,85.1223664 333.122366,114 297.5,114 L233,114 Z" id="Right-Bow" stroke="#333333" stroke-width="30"></path>
+                <path d="M84,114 L84,49.5 C84,13.8776336 112.877634,-15 148.5,-15 C184.122366,-15 213,13.8776336 213,49.5 C213,85.1223664 184.122366,114 148.5,114 L84,114 Z" id="Left-Bow" stroke="#333333" stroke-width="30" transform="translate(148.500000, 49.500000) scale(-1, 1) translate(-148.500000, -49.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

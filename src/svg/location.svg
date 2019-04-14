@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>location</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons-export" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="location" stroke="#333333" stroke-width="30">
+            <g id="location-icon" transform="translate(82.000000, 21.000000)">
+                <path d="M168.5,450 C168.5,450 337,286.363636 337,163.636364 C337,73.2624955 261.55998,0 168.5,0 C75.4400197,0 4.14420389e-15,73.2624955 0,163.636364 C0,286.363636 168.5,450 168.5,450 Z" id="Pin"></path>
+                <circle id="Hole" cx="169.5" cy="169.5" r="56.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

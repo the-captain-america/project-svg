@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>saved</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons-export" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="saved" stroke="#333333" stroke-width="30">
+            <path d="M99,29.4988305 C99,28.3969931 99.894953,27.5037774 101.00169,27.5037774 L394.99831,27.5037774 C396.103813,27.5037774 397,28.4039206 397,29.4988305 L397,473.979951 C397,474.533852 396.62383,474.731828 396.162048,474.423644 L248,375.543077 L99.8379519,474.423644 C99.3751638,474.7325 99,474.526424 99,473.979951 L99,29.4988305 Z" id="Bookmark"></path>
+        </g>
+    </g>
+</svg>

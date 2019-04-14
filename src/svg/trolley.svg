@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>trolley</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons-export" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="trolley">
+            <g transform="translate(25.426370, 59.500000)">
+                <path d="M380.687493,403.080875 C355.952446,403.080875 335.900729,383.029157 335.900729,358.294111 C335.900729,333.559064 355.952446,313.507347 380.687493,313.507347 C405.422539,313.507347 425.474257,333.559064 425.474257,358.294111 C425.474257,383.029157 405.422539,403.080875 380.687493,403.080875 Z M156.753673,403.080875 C132.018627,403.080875 111.96691,383.029157 111.96691,358.294111 C111.96691,333.559064 132.018627,313.507347 156.753673,313.507347 C181.48872,313.507347 201.540437,333.559064 201.540437,358.294111 C201.540437,383.029157 181.48872,403.080875 156.753673,403.080875 Z" id="Wheels" fill="#333333"></path>
+                <polyline id="Frame" stroke="#333333" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" points="403.080875 268.720583 134.360292 268.720583 44.7867638 3.72924723e-15 0 0"></polyline>
+                <polyline id="Body" stroke="#333333" stroke-width="30" fill="#333333" stroke-linecap="round" stroke-linejoin="round" points="123.163601 201.540437 403.080875 201.540437 447.867638 44.7867638 67.1801458 44.7867638"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

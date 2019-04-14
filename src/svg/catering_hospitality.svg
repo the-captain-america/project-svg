@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>catering_hospitality</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons-export" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="catering_hospitality">
+            <g id="catering" transform="translate(82.000000, 51.000000)">
+                <ellipse id="Rim" stroke="#333333" stroke-width="24" cx="167" cy="20" rx="157" ry="32"></ellipse>
+                <path d="M38.1746588,31 L0,31 L147.671914,179.846154 L147.671914,377.310476 C147.671914,377.861223 147.223027,378.371877 146.67335,378.450474 L9.3778882,398.081984 C9.10032091,398.121672 8.87530816,398.376728 8.87530816,398.644428 L8.87530816,417.509418 C8.87530816,417.780359 9.10524813,418 9.36889324,418 L325.631107,418 C325.903706,418 326.124692,417.777118 326.124692,417.509418 L326.124692,398.644428 C326.124692,398.373487 325.899536,398.121652 325.622112,398.081984 L188.32665,378.450474 C187.775159,378.371618 187.328086,377.855052 187.328086,377.310476 L187.328086,179.846154 L335,31 L296.204814,31 L168.613031,157.949359 C167.827382,158.731052 166.551371,158.728847 165.770713,157.952129 L38.1746588,31 Z" id="Body" fill="#333333"></path>
+            </g>
+        </g>
+    </g>
+</svg>

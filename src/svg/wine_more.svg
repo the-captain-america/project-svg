@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>wine_more</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons-export" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wine_more">
+            <g id="wine" transform="translate(102.000000, 45.000000)">
+                <ellipse id="Rim" stroke="#333333" stroke-width="22" cx="148.5" cy="20" rx="145.5" ry="31"></ellipse>
+                <path d="M132.636364,221 L132.636364,397.546968 C132.636364,398.098417 132.202732,398.637798 131.658693,398.753653 L40.4984089,418.166589 C40.2231453,418.225208 40,418.494274 40,418.780195 L40,437.492533 C40,437.772799 40.2213516,438 40.4949222,438 L256.505078,438 C256.778416,438 257,437.778453 257,437.492533 L257,418.780195 C257,418.499928 256.781314,418.226157 256.501591,418.166589 L165.341307,398.753653 C164.801354,398.638668 164.363636,398.097218 164.363636,397.546968 L164.363636,221 L132.636364,221 Z" id="Stem" fill="#333333"></path>
+                <path d="M-5.68434189e-14,23 C2.11577792e-08,101.8 -8.18469831e-07,220 147.5,220 C295.000001,220 295,101.8 295,23" id="Body" stroke="#333333" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

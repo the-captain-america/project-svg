@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>filters</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons-export" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="filters" stroke="#353535" stroke-width="30">
+            <g transform="translate(9.000000, 17.000000)">
+                <path d="M26.4944345,71.7336815 L331.180431,71.7336815" id="Line" stroke-linecap="round"></path>
+                <path d="M317.933214,230.302872 L463.652604,230.302872" id="Line-Copy-2" stroke-linecap="round"></path>
+                <path d="M26.4944345,230.302872 L172.213824,230.302872" id="Line-Copy-2" stroke-linecap="round"></path>
+                <path d="M148.037653,388.872063 L465.970867,388.872063" id="Line-Copy-3" stroke-linecap="round"></path>
+                <circle id="Oval-3" cx="397.416518" cy="79.4833036" r="64.4833036"></circle>
+                <circle id="Oval-3-Copy" cx="238.449911" cy="238.449911" r="64.4833036"></circle>
+                <circle id="Oval-3-Copy-2" cx="79.4833036" cy="388.607118" r="64.4833036"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
